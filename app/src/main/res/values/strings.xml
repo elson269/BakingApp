@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="network_connection_error_message">Network unavailable, please check your network connection!</string>
+    <string name="ingredient_details">Ingredient Details</string>
+    <string name="step_details">Step Details</string>
+    <string name="measure">(Cup)</string>
+    <string name="step_description">Step Description</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipe_details_label">Recipe Details</string>
+    <string name="video">Video</string>
+</resources>
